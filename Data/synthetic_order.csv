@@ -1,0 +1,101 @@
+OrderId,CustomerName,ProductName,OrderQuantity,OrderValue,OrderDate,ShippedStatus,Country
+1000,Terry Pearson,Tablet,5,100000,2025-09-28,Yes,GBR
+1001,James Holland,USB Drive,1,9000,2025-01-28,No,SWE
+1002,Cameron Bernard,Monitor,6,30000,2025-08-10,Yes,ITA
+1003,Jose Flores,VR Headset,10,120000,2026-05-17,Yes,BRA
+1004,Shane Wilson,Mouse,4,1200,2026-11-23,No,GBR
+1005,Kristina May,Monitor,8,40000,2025-12-09,No,CHE
+1006,Thomas Carter,Smartphone,6,180000,2026-11-25,Yes,GBR
+1007,Tracy Harris,Smartphone,6,180000,2026-05-29,No,MEX
+1008,April Castro,Printer,10,130000,2026-12-25,Yes,BRA
+1009,Tiffany Miller,VR Headset,7,84000,2025-06-22,No,CHN
+1010,Nathaniel Ryan,Monitor,8,40000,2026-07-28,No,CAN
+1011,Travis Hendrix,Monitor,2,10000,2025-08-21,Yes,SWE
+1012,Carl Sawyer,Smartwatch,7,35000,2026-08-25,Yes,CAN
+1013,Holly Charles,Gaming Console,8,400000,2026-08-17,No,ITA
+1014,Carla Cannon,Gaming Console,5,250000,2026-10-02,No,USA
+1015,Jesus Campbell,Tablet,8,160000,2025-03-14,Yes,ESP
+1016,David Nelson,Monitor,5,25000,2026-10-22,Yes,IND
+1017,Taylor Zavala,Headphones,6,12000,2025-12-08,Yes,DEU
+1018,Vincent Mason,Laptop,4,240000,2026-12-04,Yes,AUS
+1019,Shane Wood,Smartphone,1,30000,2026-06-22,No,MEX
+1020,Carrie Smith,Tablet,7,140000,2026-02-03,Yes,SGP
+1021,Richard Garcia,VR Headset,1,12000,2026-11-19,No,ARG
+1022,Aaron Butler,Headphones,2,4000,2025-10-21,No,USA
+1023,Daniel Arellano,USB Drive,10,90000,2025-01-19,No,DEU
+1024,Alexandria Jordan,Smartphone,3,90000,2025-11-19,No,JPN
+1025,Jennifer Lawrence,Gaming Console,10,500000,2025-08-01,Yes,CHE
+1026,Lindsay Crane,Laptop,9,540000,2026-11-12,Yes,CHN
+1027,Mark Roman,Smartphone,2,60000,2025-07-03,Yes,BRA
+1028,Kenneth Franklin,USB Drive,5,45000,2025-01-16,No,SGP
+1029,Heather Hughes,Gaming Console,5,250000,2026-07-29,Yes,KOR
+1030,Andrew Lee,Mouse,3,900,2025-10-10,Yes,ARG
+1031,Ryan Morrison,Headphones,5,10000,2025-02-27,No,NLD
+1032,Derek Chang,VR Headset,4,48000,2026-03-25,No,CHN
+1033,Timothy Campbell,Headphones,4,8000,2025-03-31,Yes,BRA
+1034,Brenda Richardson,Tablet,4,80000,2025-07-19,No,GBR
+1035,Rebecca Rodriguez,VR Headset,8,96000,2026-09-16,Yes,ESP
+1036,Erik Smith,Tablet,9,180000,2026-11-28,No,KOR
+1037,Stephanie Martin,Keyboard,3,4500,2025-10-27,Yes,MEX
+1038,Susan Crawford,Gaming Console,9,450000,2026-06-09,No,AUS
+1039,Jay Perry,Mouse,1,300,2026-03-12,Yes,JPN
+1040,Sherri Sullivan,Printer,6,78000,2026-07-22,Yes,ARG
+1041,Jonathan Acosta,Keyboard,4,6000,2025-07-12,No,CHN
+1042,Jo Mcdonald,Printer,10,130000,2026-05-31,Yes,DEU
+1043,Cindy Johnson,Gaming Console,6,300000,2026-10-28,No,IND
+1044,Sheri Hahn,USB Drive,3,27000,2026-07-21,No,JPN
+1045,Jamie Ortega,Tablet,8,160000,2025-12-19,No,NLD
+1046,Nathaniel Thompson,Gaming Console,7,350000,2025-03-16,No,CHN
+1047,Kevin Guerrero,USB Drive,2,18000,2026-11-21,Yes,ITA
+1048,Kelly Howell,Keyboard,7,10500,2025-03-20,No,GBR
+1049,Dr. Alan Mann,Printer,6,78000,2025-06-02,Yes,ESP
+1050,Debra Price,VR Headset,7,84000,2025-06-06,No,BRA
+1051,Christopher Bowman,Headphones,6,12000,2025-08-23,Yes,ARG
+1052,Jessica Wilson,Smartphone,9,270000,2025-04-23,Yes,ESP
+1053,Sarah Reese,Gaming Console,9,450000,2026-09-02,No,ESP
+1054,Stacey Benjamin,Gaming Console,1,50000,2025-11-20,No,ESP
+1055,Carl Smith,Smartwatch,1,5000,2025-05-12,Yes,CHN
+1056,Corey Ramirez,Monitor,2,10000,2026-12-12,Yes,IND
+1057,Cindy Johnson,Keyboard,8,12000,2026-07-11,No,USA
+1058,Lauren Thompson,VR Headset,7,84000,2025-06-09,No,RUS
+1059,Glen Jennings,Mouse,7,2100,2025-05-09,No,CHN
+1060,Sarah Bush DDS,VR Headset,3,36000,2025-09-04,Yes,CHN
+1061,Monique Anderson,Monitor,9,45000,2026-10-17,No,AUS
+1062,Robert Fuller,Smartwatch,7,35000,2026-12-05,No,SGP
+1063,Larry Andrews,Printer,4,52000,2026-05-01,No,USA
+1064,Charles Harris,Smartwatch,9,45000,2026-04-23,Yes,SGP
+1065,Michael Rangel,Headphones,2,4000,2025-05-26,Yes,ARG
+1066,Jessica Castro,Headphones,8,16000,2026-10-06,Yes,AUS
+1067,David Thompson,Smartphone,7,210000,2025-09-02,Yes,CHN
+1068,Amanda Wood,Mouse,3,900,2026-06-01,No,CAN
+1069,Robert Walsh,Printer,1,13000,2025-07-01,Yes,SGP
+1070,Jennifer Jones,Tablet,5,100000,2025-08-27,Yes,RUS
+1071,Michael Webb Jr.,Smartwatch,3,15000,2026-06-14,No,ITA
+1072,Thomas Ward,Smartphone,7,210000,2026-07-10,Yes,AUS
+1073,Natalie Carter,Laptop,4,240000,2025-01-03,No,KOR
+1074,Justin Jacobs,Gaming Console,8,400000,2026-03-23,Yes,ITA
+1075,Stacey Thompson,Mouse,6,1800,2026-01-01,No,AUS
+1076,Daniel Hobbs,Laptop,9,540000,2025-10-02,No,CAN
+1077,Brianna Barnett,Tablet,8,160000,2025-06-04,Yes,CAN
+1078,Anthony Carter,Laptop,1,60000,2025-02-02,No,DEU
+1079,Hayley Ewing,Printer,4,52000,2026-05-06,No,FRA
+1080,Melissa Rodriguez,Smartphone,7,210000,2026-12-13,Yes,ITA
+1081,Samantha Francis,Keyboard,6,9000,2025-03-28,No,USA
+1082,Summer Thomas,Gaming Console,8,400000,2025-03-20,Yes,ARG
+1083,Richard Carter,Mouse,1,300,2026-12-02,Yes,BRA
+1084,Austin Kemp,Gaming Console,6,300000,2025-02-20,No,FRA
+1085,Casey Butler,USB Drive,4,36000,2025-04-04,No,RUS
+1086,Ashley Munoz,Laptop,5,300000,2025-04-07,No,CHE
+1087,John Freeman,Monitor,7,35000,2025-03-03,No,ESP
+1088,Vanessa Anderson,Mouse,2,600,2026-04-24,No,FRA
+1089,Lindsey Clayton,Smartphone,5,150000,2025-10-22,Yes,KOR
+1090,Erin Dudley,Laptop,8,480000,2025-06-18,No,ARG
+1091,Walter Chase Jr.,VR Headset,6,72000,2026-11-08,Yes,CAN
+1092,Ana Fuentes,Keyboard,5,7500,2025-05-03,Yes,FRA
+1093,Danielle Huerta,USB Drive,3,27000,2025-06-15,Yes,SWE
+1094,James Mcmillan,Mouse,4,1200,2026-02-09,No,JPN
+1095,Elizabeth Carr,Headphones,3,6000,2025-02-27,No,SWE
+1096,Mrs. Rebecca Brewer,Headphones,8,16000,2025-01-19,No,AUS
+1097,Amber Brooks,Laptop,4,240000,2025-07-10,No,JPN
+1098,Nathaniel Barker,Smartwatch,4,20000,2026-12-09,No,CHE
+1099,Megan Chaney,Printer,4,52000,2026-06-18,Yes,NLD

@@ -1,8 +1,8 @@
 class Student:
 
     def __init__(self, name: str, age: int, grade: float):     
-        self.name = name                
-        self.age = age
+        self.name = name      # Pyhton doesnt expect variable to be declared          
+        self.age = age          # Self points to obj invoking the method
         self.grade = grade
 
     def getName(self) -> str:
