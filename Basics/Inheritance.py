@@ -18,6 +18,9 @@ class Pet:
     def whoamI(cls):
         return cls.no_of_pets
 
+    def __str__(self):
+        return f"My name is {self.name}. I'm {self.age} year(s) old"
+
 class Dog (Pet):
     def speak(self):
         print("I Bark")
